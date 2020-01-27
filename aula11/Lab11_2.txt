@@ -1,0 +1,1 @@
+A implementação de metodos que derivam da superclasse varia entre as classes InputStream, OutputStream e Reader, tal como consta no padrão Template Method.

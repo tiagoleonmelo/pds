@@ -1,0 +1,1 @@
+Após uma breve análises, é possivel inferir que java.util.Calendar usa um Factory Method.
